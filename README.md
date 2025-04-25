@@ -62,7 +62,8 @@
 
 ### 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AndreSaraiva012/AndreSaraiva012/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/AndreSaraiva012/AndreSaraiva012/main/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
+
 
 ---
